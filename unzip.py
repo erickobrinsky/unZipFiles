@@ -7,7 +7,7 @@ import  os, shutil, zipfile
 path = r"C:\Users\E901895\OneDrive - Allscripts Healthcare, LLC\Desktop\pbi\pbix"
 
 # Get the path of the folder where the PBIX files will be copied  and unzipped
-path_copy = r"C:\Users\E901895\OneDrive - Allscripts Healthcare, LLC\Desktop\pbi\unzippbix"
+path_copy = r"C:\Users\Desktop\pbi\unzippbix"
 
 # Get the name of the folder where the PBIX files will be copied and unzipped
 folder_copy = "unzippbix"
