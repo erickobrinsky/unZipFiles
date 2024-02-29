@@ -1,10 +1,11 @@
-# A python program that copies all PBIX files within subfolders in a folder, copies them into a single folder and then unzip each on in its own folder.
-#
+# A python program that copies all PBIX files within subfolders in a folder, copies them into a single folder and then 
+# unzip each on in its own folder.
+
 
 import  os, shutil, zipfile
 
 # Get the path of the folder where the PBIX files are stored
-path = r"C:\Users\E901895\OneDrive - Allscripts Healthcare, LLC\Desktop\pbi\pbix"
+path = r"your_path_/pbix"
 
 # Get the path of the folder where the PBIX files will be copied  and unzipped
 path_copy = r"C:\Users\Desktop\pbi\unzippbix"
